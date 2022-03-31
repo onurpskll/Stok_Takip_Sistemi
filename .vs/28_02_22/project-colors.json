@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "689169be-7c9e-4bc4-b4d7-e01e7a2b3901": {
+      "ProjectGuid": "689169be-7c9e-4bc4-b4d7-e01e7a2b3901",
+      "DisplayName": "WinFormsApp1",
+      "ColorIndex": 0
+    },
+    "b0a3e335-4c09-44db-9d80-a43fc815eaaf": {
+      "ProjectGuid": "b0a3e335-4c09-44db-9d80-a43fc815eaaf",
+      "DisplayName": "WindowsFormsApp1",
+      "ColorIndex": 1
+    },
+    "2ab9446f-8fac-4a0b-bf1b-8e963b7df2b7": {
+      "ProjectGuid": "2ab9446f-8fac-4a0b-bf1b-8e963b7df2b7",
+      "DisplayName": "ADO_Stok_App",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

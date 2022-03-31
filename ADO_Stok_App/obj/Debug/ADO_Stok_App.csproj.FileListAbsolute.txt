@@ -1,0 +1,44 @@
+C:\Users\onur.puskullu\source\repos\28_02_22\ADO_Stok_App\bin\Debug\ADO_Stok_App.exe.config
+C:\Users\onur.puskullu\source\repos\28_02_22\ADO_Stok_App\bin\Debug\ADO_Stok_App.exe
+C:\Users\onur.puskullu\source\repos\28_02_22\ADO_Stok_App\bin\Debug\ADO_Stok_App.pdb
+C:\Users\onur.puskullu\source\repos\28_02_22\ADO_Stok_App\obj\Debug\ADO_Stok_App.csproj.AssemblyReference.cache
+C:\Users\onur.puskullu\source\repos\28_02_22\ADO_Stok_App\obj\Debug\ADO_Stok_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\onur.puskullu\source\repos\28_02_22\ADO_Stok_App\obj\Debug\ADO_Stok_App.Form1.resources
+C:\Users\onur.puskullu\source\repos\28_02_22\ADO_Stok_App\obj\Debug\ADO_Stok_App.Properties.Resources.resources
+C:\Users\onur.puskullu\source\repos\28_02_22\ADO_Stok_App\obj\Debug\ADO_Stok_App.csproj.GenerateResource.cache
+C:\Users\onur.puskullu\source\repos\28_02_22\ADO_Stok_App\obj\Debug\ADO_Stok_App.csproj.CoreCompileInputs.cache
+C:\Users\onur.puskullu\source\repos\28_02_22\ADO_Stok_App\obj\Debug\ADO_Stok_App.exe
+C:\Users\onur.puskullu\source\repos\28_02_22\ADO_Stok_App\obj\Debug\ADO_Stok_App.pdb
+C:\Users\onur\Desktop\ADO Uygulama\ADO_Stok_App\bin\Debug\ADO_Stok_App.exe.config
+C:\Users\onur\Desktop\ADO Uygulama\ADO_Stok_App\bin\Debug\ADO_Stok_App.exe
+C:\Users\onur\Desktop\ADO Uygulama\ADO_Stok_App\bin\Debug\ADO_Stok_App.pdb
+C:\Users\onur\Desktop\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.csproj.AssemblyReference.cache
+C:\Users\onur\Desktop\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\onur\Desktop\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.Form1.resources
+C:\Users\onur\Desktop\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.Properties.Resources.resources
+C:\Users\onur\Desktop\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.csproj.GenerateResource.cache
+C:\Users\onur\Desktop\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.csproj.CoreCompileInputs.cache
+C:\Users\onur\Desktop\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.exe
+C:\Users\onur\Desktop\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.pdb
+C:\Users\onur.puskullu\Desktop\DERS\.NET C#\ADO Uygulama\ADO_Stok_App\bin\Debug\ADO_Stok_App.exe.config
+C:\Users\onur.puskullu\Desktop\DERS\.NET C#\ADO Uygulama\ADO_Stok_App\bin\Debug\ADO_Stok_App.exe
+C:\Users\onur.puskullu\Desktop\DERS\.NET C#\ADO Uygulama\ADO_Stok_App\bin\Debug\ADO_Stok_App.pdb
+C:\Users\onur.puskullu\Desktop\DERS\.NET C#\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.csproj.AssemblyReference.cache
+C:\Users\onur.puskullu\Desktop\DERS\.NET C#\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\onur.puskullu\Desktop\DERS\.NET C#\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.Form1.resources
+C:\Users\onur.puskullu\Desktop\DERS\.NET C#\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.Properties.Resources.resources
+C:\Users\onur.puskullu\Desktop\DERS\.NET C#\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.csproj.GenerateResource.cache
+C:\Users\onur.puskullu\Desktop\DERS\.NET C#\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.csproj.CoreCompileInputs.cache
+C:\Users\onur.puskullu\Desktop\DERS\.NET C#\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.exe
+C:\Users\onur.puskullu\Desktop\DERS\.NET C#\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.pdb
+C:\Users\onur\Desktop\DERS\ADO Uygulama\ADO_Stok_App\bin\Debug\ADO_Stok_App.exe.config
+C:\Users\onur\Desktop\DERS\ADO Uygulama\ADO_Stok_App\bin\Debug\ADO_Stok_App.exe
+C:\Users\onur\Desktop\DERS\ADO Uygulama\ADO_Stok_App\bin\Debug\ADO_Stok_App.pdb
+C:\Users\onur\Desktop\DERS\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.csproj.AssemblyReference.cache
+C:\Users\onur\Desktop\DERS\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\onur\Desktop\DERS\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.Form1.resources
+C:\Users\onur\Desktop\DERS\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.Properties.Resources.resources
+C:\Users\onur\Desktop\DERS\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.csproj.GenerateResource.cache
+C:\Users\onur\Desktop\DERS\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.csproj.CoreCompileInputs.cache
+C:\Users\onur\Desktop\DERS\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.exe
+C:\Users\onur\Desktop\DERS\ADO Uygulama\ADO_Stok_App\obj\Debug\ADO_Stok_App.pdb
